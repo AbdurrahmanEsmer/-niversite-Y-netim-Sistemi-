@@ -1,1 +1,1 @@
-# -niversite-Y-netim-Sistemi-
+# Üniversite-Y-netim-Sistemi-
