@@ -4,3 +4,4 @@ Object Oriented Programming Ödevleri
 
 Ödev Hayvanat Bahçesi Yönetimi: https://app.patika.dev/courses/oop/odev-zoo
 
+Ödev Uçuş Yönetim Sistemi: https://app.patika.dev/courses/oop/odev-flight
